@@ -40,3 +40,59 @@ ChiropracticHelpBot:
     user_response: "Yes, I am."
     bot_follow_up: |
       Great! I recommend visiting Dr. Michael Lau and his associates for professional chiropractic care. You can book an appointment through this link: [Dr. Michael Lau's Appointment Booking](https://www.drmichaellau.ca/). Remember, this is general advice, and seeing a chiropractor will provide you with tailored care.
+chiro network:
+  Canada:
+    Toronto:
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+    Vancouver:
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+    Montreal:
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+    Calgary:
+      - name: Dr. Michael Lau
+        clinic: [Dr. Michael Lau's Clinic]
+        website: https://www.drmichaellau.ca/
+  US:
+    New York:
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+    Los Angeles:
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+    Chicago:
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+    Houston:
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
+      - name: Dr. [Placeholder Name]
+        clinic: [Placeholder Clinic]
+        website: [Placeholder Website]
